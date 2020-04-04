@@ -37,31 +37,4 @@ else:
                                  else:
                                           print("Introduzca numeros no negativos entre 1 y 20")
                          print("El promedio de la seccion es : " + str(float(promedio)))
-                                         
-                         
-                
-        
-        
-       
-                
-                        
-                        
-                                
-                                
-                                
-                        
-                               
-                
-                
-                                
-        
-    
-   
-            
-
-
-        
-           
-    
-    
-    
+  
