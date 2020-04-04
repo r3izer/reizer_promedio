@@ -1,2 +1,2 @@
-# reizer_promedio
+# r3izer_promedio
 Calculo de promedio basico
